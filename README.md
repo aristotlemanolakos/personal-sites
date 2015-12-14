@@ -48,6 +48,7 @@ If you'd like to see GitHub profiles, [click here](github.md).
 - Anuraag Yachamaneni http://anuraag.me
 - Anurag Banerjee http://anuragbanerjee.me
 - Ari VanIderstine http://ariari.io
+- Aristotle Manolakos http://stotle.me
 - Arjun Bhatnagar http://arjunb.com
 - Arjun Sarode http://asarode.github.io/
 - Arnaud Schenk http://arnaudschenk.me
